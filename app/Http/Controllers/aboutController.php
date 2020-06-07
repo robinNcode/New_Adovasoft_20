@@ -9,6 +9,9 @@ use Illuminate\Routing\Controller as BaseController;
 
 class aboutController extends BaseController
 {
+	public function index(){
+		return view('index');
+	}
     public function specialties(){
     	return view('about_us.specialties');
     }
