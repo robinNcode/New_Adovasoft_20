@@ -1,0 +1,36 @@
+#sidemenu{
+  display:inline-block;
+  float:left;
+  height:auto;
+  font-size:12px;
+  text-align:left;
+  margin-right:5px;
+  font-family:Arial, Helvetica, sans-serif;
+}
+
+#sidemenu a{
+  display:block;
+  text-align:left;
+  height:auto;
+  width:110px;
+  padding:5px 10px;
+  margin:5px 10px 10px 5px;
+  text-decoration:none;
+  border-width:1px;
+  border-style:solid;
+  border-color:#dddddd;
+  color:#222222;
+  font-weight:bold;
+  box-shadow:1px 1px 1px #dddddd;
+}
+
+#sidemenu a:hover{
+  color:#000000;
+  background-color:#eeeeee;
+  border-color:#aaaaaa;
+}
+
+#sidemenu b{
+	margin-left:5px;
+	font-size:14px;
+}

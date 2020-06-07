@@ -1,0 +1,51 @@
+.coin-slider {
+    display:block;
+	padding:0;
+	overflow:hidden;
+	zoom:1;
+	position:relative;
+	float:right;
+}
+.coin-slider a {
+	text-decoration:none;
+	outline:none;
+	border:none;
+}
+/* buttons for switching */
+.cs-buttons {
+	margin:-40px 0 0;
+	padding:0;
+	font-size:0;
+	float:left;
+}
+.cs-buttons a {
+	margin:0 2px;
+	width:20px;
+	height:20px;
+	float:left;
+	color:#fff;
+	text-indent:-10000px;
+	background:url(../images/slide_p.png) no-repeat center center;
+}
+.cs-buttons a.cs-active {
+	color:#fff;
+	background-image:url(../images/slide_a.png);
+}
+
+/* buttons Next and Prew */
+.cs-prev, .cs-next {
+	font-variant:small-caps;
+	padding:0px 4px;
+	margin:3px;
+	border-width:0px;
+	-moz-border-radius:20px;	
+	-webkit-border-radius:20px;
+	border-radius:20px;
+	background-color:#5EA2F5;
+	color:#ffffff;
+	font-size:11px;
+}
+
+.cs-prev:hover, .cs-next:hover{
+	background-color:#0085FF;
+} 
