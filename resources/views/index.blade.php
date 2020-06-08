@@ -62,136 +62,128 @@
             </div>
         </div>
     </div>
+    <?php //Image PArt Ends Here....................................?>
 
-            <?php //Image PArt Ends Here....................................?>
+    <hr class="space l" />
+    <?php //Facebook Post Part startes Here......................................?>
+    
+    
+
+    <?php //facebook post part Ends Here..........................................?>
+
+    <?php //package Part starts Here....................................?>
     <div class="section-bg-image text-center" style="background-image:url(../images/bg-12.png)">
         <div class="container content">
             <div class="row">
-                <div class="col-md-4">
-                    <div class="img-box adv-img adv-img-down-text shadow-1">
-                        <a target="_blank" class="img-box i-center" href="index-main.html">
-                            <h4>Starter Website Package</h4>
+                <div class="col-md-3">
+                    <div class="img-box adv-img adv-img-down-text shadow-1 decorplus text-center">
+                        <h2><a href="/starter_packages">Starter Website Package</a></h2>
+                        <a target="_blank" class="img-box i-center" href="/starter_packages">
                             <div class="caption">
                                 <i class="fa fa-plus"></i>
                             </div>
-                            <img src="../images/intro/home-main.jpg" alt="">
+                            <img src="/images/db/497.png" alt="">
+                            <h5 class="text-center">
+                                <span class='blue'>Price<br/>5,500 Taka Only<br/><small>Including Domain and Hosting</small></span></h4>
                         </a>
-                        <div class="caption-bottom">
-                            <h2><a href="#">Main</a></h2>
-                        </div>
+                        
                     </div>
                 </div>
-                <div class="col-md-4">
-                    <div class="img-box adv-img adv-img-down-text shadow-1">
-                        <a target="_blank" class="img-box i-center" href="index-freelancer.html">
+                <div class="col-md-3">
+                    <div class="img-box adv-img adv-img-down-text  shadow-1 decorplus text-center">
+                        <h2 class="text-primary"><a href="/dynamic_website_package">Dynamic Website Package</a></h2>
+                        
+                        <a target="_blank" class="img-box i-center row" href="index-freelancer.html">
                             <div class="caption">
                                 <i class="fa fa-plus"></i>
                             </div>
-                            <img src="../images/intro/home-freelancer.jpg" alt="">
+                            <img src='images/db/498.png' alt='Dynamic Website Package'/>
+                           <h5 class="text-center"><span class='blue'>Price<br/>11,000 Taka Only<br/><small>Including Domain and Hosting</small></span></h4>
                         </a>
-                        <div class="caption-bottom">
-                            <h2><a href="#">Freelancer</a></h2>
-                        </div>
+                        
                     </div>
                 </div>
-                <div class="col-md-4">
-                    <div class="img-box adv-img adv-img-down-text shadow-1">
-                        <a target="_blank" class="img-box i-center" href="index-business.html">
+                <div class="col-md-3">
+                    <div class="img-box adv-img adv-img-down-text  shadow-1 decorplus text-center">
+                        <h2 class="text-primary"><a href="/basic_inventory_soft">Basic Inventory Software</a></h2>
+                        
+                        <a target="_blank" class="img-box i-center row" href="index-freelancer.html">
                             <div class="caption">
                                 <i class="fa fa-plus"></i>
                             </div>
-                            <img src="../images/intro/home-business.jpg" alt="">
+                            <img src='images/db/500.png' alt='Basic Inventory Software'/>
+                           <h5 class="text-center"><span class='blue'>Price<br/>5,500 Taka Only<br/><small>Including Hosting</small></span></h4>
                         </a>
-                        <div class="caption-bottom">
-                            <h2><a href="#">Business</a></h2>
-                        </div>
+                        
                     </div>
                 </div>
-            </div>
+                <div class="col-md-3">
+                    <div class="img-box adv-img adv-img-down-text  shadow-1 decorplus text-center">
+                        <h2 class="text-primary"><a href="/advance_inventory_soft">Advance Inventory Software</a></h2>
+                        
+                        <a target="_blank" class="img-box i-center row" href="index-freelancer.html">
+                            <div class="caption">
+                                <i class="fa fa-plus"></i>
+                            </div>
+                            <img src='images/db/501.png' alt='Advance Inventory Software'/>
+                           <h5 class="text-center"><span class='blue'>Price<br/>11,000 Taka Only<br/><small>Including Domain and Hosting</small></span></h5>
+                        </a>
+                    </div>
+                </div>
             <hr class="space l" />
             <div class="row">
-                <div class="col-md-4">
-                    <div class="img-box adv-img adv-img-down-text shadow-1">
-                        <a target="_blank" class="img-box i-center" href="index-video.html">
+                <div class="col-md-3">
+                    <div class="img-box adv-img adv-img-down-text  shadow-1 decorplus text-center">
+                        <h2 class="text-primary"><a href="/advance_hosting">Advance Hosting (1GB)</a></h2>
+                        <br>
+                        <a target="_blank" class="img-box i-center row" href="/advance_hosting">
                             <div class="caption">
                                 <i class="fa fa-plus"></i>
                             </div>
-                            <img src="../images/intro/home-video.jpg" alt="">
+                            <img src='images/db/433.png' alt='Advance Hosting Package (1GB) Yearly 1000 Taka Only.'/>
+                           <h5 class="text-center"><span class='blue'>Price<br/>1,000 Taka Only<br/><small>Per Year</small></span></h5>
                         </a>
-                        <div class="caption-bottom">
-                            <h2><a href="#">Video</a></h2>
-                        </div>
                     </div>
                 </div>
-                <div class="col-md-4">
-                    <div class="img-box adv-img adv-img-down-text shadow-1">
-                        <a target="_blank" class="img-box i-center" href="index-cooworking.html">
+                <div class="col-md-3">
+                    <div class="img-box adv-img adv-img-down-text  shadow-1 decorplus text-center">
+                        <h2 class="text-primary"><a href="/advance_two_hosting">Advance 4 Hosting (4GB)</a></h2>
+                        
+                        <a target="_blank" class="img-box i-center row" href="/advance_two_hosting">
                             <div class="caption">
                                 <i class="fa fa-plus"></i>
                             </div>
-                            <img src="../images/intro/home-cooworking.jpg" alt="">
+                            <img src='images/db/434.png' alt='Advance 2 Hosting (2GB) Yearly 1900 Taka Only.'/>
+                           <h5 class="text-center"><span class='blue'>Price<br/>1,900 Taka Only<br/><small>Per Year</small></span></h5>
                         </a>
-                        <div class="caption-bottom">
-                            <h2><a href="#">Cooworking</a></h2>
-                        </div>
                     </div>
                 </div>
-                <div class="col-md-4">
-                    <div class="img-box adv-img adv-img-down-text shadow-1">
-                        <a target="_blank" class="img-box i-center" href="index-fullpage.html">
+                <div class="col-md-3">
+                    <div class="img-box adv-img adv-img-down-text  shadow-1 decorplus text-center">
+                        <h2 class="text-primary"><a href="/advance_three_hosting">Advance 3 Hosting (3GB)</a></h2>
+                        
+                        <a target="_blank" class="img-box i-center row" href="/advance_three_hosting">
                             <div class="caption">
                                 <i class="fa fa-plus"></i>
                             </div>
-                            <img src="../images/intro/home-fullpage.jpg" alt="">
+                            <img src='images/db/435.png' alt='Advance 3 Hosting (3GB) Yearly 2800 Taka Only.'/>
+                           <h5 class="text-center"><span class='blue'>Price<br/>2,800 Taka Only<br/><small>Per year</small></span></h5>
                         </a>
-                        <div class="caption-bottom">
-                            <h2><a href="#">Fullpage</a></h2>
-                        </div>
                     </div>
                 </div>
-            </div>
-            <hr class="space l" />
-            <div class="row">
-                <div class="col-md-4">
-                    <div class="img-box adv-img adv-img-down-text shadow-1">
-                        <a target="_blank" class="img-box i-center" href="index-mobile.html">
+                <div class="col-md-3">
+                    <div class="img-box adv-img adv-img-down-text  shadow-1 decorplus text-center">
+                        <h2 class="text-primary"><a href="/advance_inventory_soft">Advance Inventory Software</a></h2>
+                        
+                        <a target="_blank" class="img-box i-center row" href="index-freelancer.html">
                             <div class="caption">
                                 <i class="fa fa-plus"></i>
                             </div>
-                            <img src="../images/intro/home-mobile.jpg" alt="">
+                            <img src='images/db/436.png' alt='Advance 4 Hosting (4GB) Yearly 3500 Taka Only.'/>
+                           <h5 class="text-center"><span class='blue'>Price<br/>3,500 Taka Only<br/><small>Per year</small></span></h5>
                         </a>
-                        <div class="caption-bottom">
-                            <h2><a href="#">Mobile</a></h2>
-                        </div>
                     </div>
                 </div>
-                <div class="col-md-4">
-                    <div class="img-box adv-img adv-img-down-text shadow-1">
-                        <a target="_blank" class="img-box i-center" href="index-application.html">
-                            <div class="caption">
-                                <i class="fa fa-plus"></i>
-                            </div>
-                            <img src="../images/intro/home-application.jpg" alt="">
-                        </a>
-                        <div class="caption-bottom">
-                            <h2><a href="#">Application</a></h2>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="img-box adv-img adv-img-down-text shadow-1">
-                        <a target="_blank" class="img-box i-center" href="index.html">
-                            <div class="caption">
-                                <i class="fa fa-plus"></i>
-                            </div>
-                            <img src="../images/intro/home-intro.jpg" alt="">
-                        </a>
-                        <div class="caption-bottom">
-                            <h2><a href="#">Intro</a></h2>
-                        </div>
-                    </div>
-                </div>
-            </div>
         </div>
     </div>
 
