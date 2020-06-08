@@ -308,6 +308,6 @@
       })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
       ga('create', 'UA-73921114-1', 'auto');
       ga('send', 'pageview');
-      </script
+      </script>
    </body>
 </html>

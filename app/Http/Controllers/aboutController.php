@@ -18,4 +18,7 @@ class aboutController extends BaseController
     public function why_choose(){
     	return view('about_us.why_choose_us');
     }
+    public function template(){
+    	return view('pages.index');
+    }
 }
