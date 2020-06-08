@@ -66,7 +66,7 @@
                                        <a href="/specialties" class="" data-toggle="">Specialties of Adova Soft</a>
                                     </li>
                                     <li class="dropdown dropdown-submenu">
-                                       <a href="/why_choose_us" class="" data-toggle="">Why Choose Us ?</a>
+                                       <a href="/why_choose" class="" data-toggle="">Why Choose Us ?</a>
                                     </li>
                                     <li class="dropdown dropdown-submenu">
                                        <a href="/designing" class="" data-toggle="">Designing Preferences</a>
@@ -389,6 +389,7 @@
                
             </div>
          </div>
+         
          <div id="columnsbg">
             <div id="columns">
                <table border="0px" width="960px" align="center">

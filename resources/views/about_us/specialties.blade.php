@@ -10,7 +10,7 @@
         <div class="container content">
             <div class="row vertical-row">
                 <div class="col-md-6">
-                    <div class="title-base text-left">
+                    <div class="title-base text-left" style="color:black;">
                         <hr />
                         <h2>Specialties of Adova Soft</h2>
                         <p>
@@ -28,7 +28,13 @@
                     </div>
                 </div>
                 <div class="col-md-6 singlebigimg">
-                    <a href='index.php?page=largeview&&img_id=425&&data_id=138&&backpage=about_us'><img src='images/db/425.png' alt='Websites &amp; Softwares'/></a><b><big class='green'>Websites &amp; Softwares</big></b>
+                    <a href='index.php?page=largeview&&img_id=425&&data_id=138&&backpage=about_us'><img src='images/db/425.png' alt='Websites &amp; Softwares'/></a>
+                    <br/>
+                    <br/>
+                    
+                    <div align="center">
+                    	<b><big class='green'>Websites &amp; Softwares</big></b>
+                	</div>
                 </div>
             </div>
         </div>
