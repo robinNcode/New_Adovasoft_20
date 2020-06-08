@@ -70,16 +70,16 @@
                                        <a href="/designing" class="" data-toggle="">Designing Preferences</a>
                                     </li>
                                     <li class="dropdown dropdown-submenu">
-                                       <a href="/information_technology" class="" data-toggle="">Information technology in Bangladesh</a>
+                                       <a href="/information_technology" class="" data-toggle="">Information technology in BD</a>
                                     </li>
                                     <li class="dropdown dropdown-submenu">
-                                       <a href="/website_hosting" class="" data-toggle="">Website Hosting in Bangladesh</a>
+                                       <a href="/website_hosting" class="" data-toggle="">Website Hosting in BD</a>
                                     </li>
                                     <li class="dropdown dropdown-submenu">
-                                       <a href="/our_dream_vision" class="" data-toggle="">Our Dream, Mission and Vision</a>
+                                       <a href="/our_dream_vision" class="" data-toggle="">Our Dream Mission &Vision</a>
                                     </li>
                                     <li class="dropdown dropdown-submenu">
-                                       <a href="/db_solution" class="" data-toggle="">Database Solution in Bangladesh</a>
+                                       <a href="/db_solution" class="" data-toggle="">Database Solution in BD</a>
                                     </li>
                                     <li class="dropdown dropdown-submenu">
                                        <a href="/our_db_solutions" class="" data-toggle="">Our Database Solutions</a>

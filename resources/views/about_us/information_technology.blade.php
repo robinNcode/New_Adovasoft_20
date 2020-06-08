@@ -24,7 +24,7 @@
                </p>
             </div>
          </div>
-         <div class="col-md-6 singlebigimg">
+         <div class="col-md-6 singlebigimg" align="center">
             <a href='index.php?page=largeview&&img_id=506&&data_id=214&&backpage=about_us'><img src='images/db/506.png' alt='Information technology in Bangladesh'/></a>
             <br/>
             <br/>
