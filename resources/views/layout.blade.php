@@ -36,6 +36,8 @@
          <link rel="stylesheet" type="text/css" href="css/coin-slider.css"/>
          <script src="//code.jquery.com/jquery-1.12.0.min.js"></script>
          <script type="text/javascript" src="js/slideupdown_uti.js"></script>
+
+         @yield ('css')
       </head>
       <body>
          <div id="preloader"></div>
@@ -292,7 +294,12 @@
          </header>
 
 
+
+
          @yield ('content')
+
+
+
 
          <div class="container" id='sud4'>
             <div class="row">
@@ -483,6 +490,7 @@
          <script type="text/javascript" src="js/sliding.js"></script>
          <script type="text/javascript" src="js/fly_out_menu.js"></script>
          <script type="text/javascript" src="js/autocomplete.js"></script>
+         @yield ('script')
          <script>
             (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
             (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
