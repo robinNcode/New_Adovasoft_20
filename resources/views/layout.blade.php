@@ -12,6 +12,7 @@
          <title>
             @yield ('title')
          </title>
+         <link rel="icon" href="adovasoft.ico">
          <meta name="description" content="Adova Soft is a website and software development company in bangladesh who provides high quality web designs,software,e-commerce,effective SEO services,domain and hosting in bangladesh">
          <script src="/HTWF/scripts/jquery.min.js"></script>
          <link rel="stylesheet" href="/HTWF/scripts/bootstrap/css/bootstrap.css">
@@ -23,6 +24,10 @@
          <link rel="stylesheet" href="../HTWF/css/components.css">
          <link rel="stylesheet" href="../HTWF/scripts/magnific-popup.css">
          <link rel="icon" href="../images/favicon.png">
+         <link rel="stylesheet" href="/HTWF/css/image-box.css">
+         <link rel="stylesheet" href="/HTWF/css/animations.css">
+         <link rel="stylesheet" href="/HTWF/css/components.css">
+
          <link rel="stylesheet" href="/css/skin.css">
          
          <!--Old web site link  -->
@@ -61,6 +66,8 @@
                               <li class="dropdown active">
                                  <a href="/home" class="" data-toggle="" role="">Home</a>
                               </li>
+
+                              <!-- ..................About US............................. -->
                               <li class="dropdown">
                                  <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button">About us <span class="caret"></span></a>
                                  <ul class="dropdown-menu multi-level">
@@ -100,6 +107,32 @@
                                     <li class="dropdown dropdown-submenu">
                                        <a href="/about_us" class="" data-toggle=""> View all About us</a>
                                     </li>
+                                 </ul>
+                              </li>
+
+                              <!-- .......................Packages........................... -->
+                              <li class="dropdown">
+                                 <a href="/packages" class="dropdown-toggle" data-toggle="dropdown" role="button">Packages <span class="caret"></span></a>
+                                 <ul class="dropdown-menu multi-level">
+                                    <li class="dropdown dropdown-submenu">
+                                       <a href="/website_packages" class="dropdown-toggle" data-toggle="dropdown">Website Packages</a>
+                                       <ul class="dropdown-menu">
+                                          <li><a href="/starter_website_package">Starter Website Package</a></li>
+                                          <li><a href="/dynamic_website_package">Dynamis Website Package</a></li>
+                                          <li><a href="portfolio-1-gutted-boxed-inverse.html">E-Commerce Package</a></li>
+                                          <li><a href="portfolio-1-gutted-boxed-inverse.html">Dynamis Wordpress Blog</a></li>
+                                       </ul>
+                                    </li>
+                                    <li class="dropdown dropdown-submenu">
+                                       <a href="#" class="dropdown-toggle" data-toggle="dropdown">Software Packages</a>
+                                       <ul class="dropdown-menu">
+                                          <li><a href="portfolio-2-gutted-boxed.html">Basic Inventory Software</a></li>
+                                          <li><a href="portfolio-2-gutted-boxed-inverse.html">Advance Inventory Software</a></li>
+                                          <li><a href="portfolio-2-gutted-boxed-inverse.html">Inventory & Accounting Software</a></li>
+                                          <li><a href="portfolio-2-gutted-boxed-inverse.html">Custom Specialized Software</a></li>
+                                       </ul>
+                                    </li>
+                                    <li><a href="portfolio-3.html">View All Packages</a></li>
                                  </ul>
                               </li>
                               <li class="dropdown">
