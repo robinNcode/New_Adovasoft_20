@@ -14,7 +14,7 @@
                 <div class="col-md-6">
                     <div class="title-base text-left" style="color:black;">
                         <hr />
-                        <h2>Specialties of Adova Soft</h2>
+                        <h2>Designing Preferences</h2>
                         <p>Satisfaction of clients: In case of designing our first preference is satisfaction of our clients. We are bound to give on time delivery of quality work to achieve satisfaction of our clients.<br />
       <br />
       Speed: Many people have very slow Internet connection so if the website is not fast loading then often the viewer gets irritated and goes to another site. So we try our best to produce fast loading websites by proper HTML, CSS and PHP coding.<br />
@@ -30,6 +30,9 @@
                     </div>
                 </div>
                 <div class="col-md-6 singlebigimg" align="center">
+                    <a href="" type="button" class="btn btn-outline-info waves-effect btn-lg">Website Packages</a><br>
+            <br><br><br>
+            
                     <a href='index.php?page=packages&&category=25' target='_blank'><img src='images/db/426.png' alt='Designing and Development'/></a>
                     <br/>
                     <br/>

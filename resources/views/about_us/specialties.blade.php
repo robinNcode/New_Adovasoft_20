@@ -27,7 +27,7 @@
          				</p>
                     </div>
                 </div>
-                <div class="col-md-6 singlebigimg">
+                <div class="col-md-6 singlebigimg" align="center">
                     <a href='index.php?page=largeview&&img_id=425&&data_id=138&&backpage=about_us'><img src='images/db/425.png' alt='Websites &amp; Softwares'/></a>
                     <br/>
                     <br/>

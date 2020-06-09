@@ -30,33 +30,33 @@ class AboutController extends BaseController
     public function information_technology(){
         return view('about_us.information_technology');
     }
-/*
-    public function (){
-        return view('about_us.');
+
+    public function website_hosting(){
+        return view('about_us.website_hosting');
     }
 
-    public function (){
-        return view('about_us.');
+    public function our_dream_vision(){
+        return view('about_us.our_dream_vision');
     }
 
-    public function (){
-        return view('about_us.');
+    public function db_solution(){
+        return view('about_us.db_solution');
     }
 
-    public function (){
-        return view('about_us.');
+    public function our_db_solutions(){
+        return view('about_us.our_db_solutions');
     }
 
-    public function (){
-        return view('about_us.');
+    public function technology(){
+        return view('about_us.technology');
     }
 
-    public function (){
-        return view('about_us.');
+    public function terms_and_conditions(){
+        return view('about_us.terms_and_conditions');
     }
 
-    public function (){
-        return view('about_us.');
+    public function energy_saving_websites(){
+        return view('about_us.energy_saving_websites');
     }
-    */
+    
 }
