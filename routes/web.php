@@ -17,9 +17,10 @@ Route::get('energy_saving_websites','AboutController@energy_saving_websites');
 Route::get('about_us','AboutController@about_us');
 
 
-//................................Home controller calling .........................................
+//................................Home controller calling ............................................
 Route::get('/','HomeController@index');
 Route::get('/home','HomeController@index');
+Route::get('/service3','HomeController@service3');
 Route::get('/layout', function(){
 	return view('layout');
 });
@@ -28,4 +29,6 @@ Route::get('/layout', function(){
 
 
 //................................Service controller calling .........................................
+
+//................................Portfolio controller calling .......................................
 

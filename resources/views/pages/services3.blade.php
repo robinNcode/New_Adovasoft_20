@@ -15,9 +15,9 @@
     <script src="../HTWF/scripts/script.js"></script>
     <link rel="stylesheet" href="../HTWF/style.css">
     <link rel="stylesheet" href="../HTWF/css/content-box.css">
+    <link rel="stylesheet" href="../HTWF/scripts/flexslider/flexslider.css">
     <link rel="stylesheet" href="../HTWF/css/animations.css">
     <link rel="stylesheet" href="../HTWF/css/components.css">
-    <link rel="stylesheet" href="../HTWF/scripts/flexslider/flexslider.css">
     <link rel="stylesheet" href="../HTWF/scripts/magnific-popup.css">
     <link rel="icon" href="../images/favicon.png">
     <link rel="stylesheet" href="../skin.css">
@@ -378,21 +378,6 @@
     </div>
     <div class="section-empty">
         <div class="container content">
-            <div class="row vertical-row">
-                <div class="col-md-5">
-                    <h2>Support in real time to improve sales</h2>
-                    <p>
-                        Lorem ipsum dolor sit amet consectetur adipiscing elitsed do eiusmod tempor incididunt utlabore et dolore magna aliqua.
-                        Utenim ad minim veniam quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
-                        in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-                    </p>
-                    <hr class="space m" />
-                    <a href="#" class="btn-text">More informations about the service</a>
-                </div>
-                <div class="col-md-7">
-                    <img src="../images/mk-12.png" alt="" />
-                </div>
-            </div>
             <hr class="space" />
             <div class="flexslider carousel outer-navs" data-options="minWidth:200,itemMargin:30,numItems:5,controlNav:false,directionNav:true">
                 <ul class="slides">

@@ -18,11 +18,13 @@
          <script src="/HTWF/scripts/script.js"></script>
          <link rel="stylesheet" href="/HTWF/style.css">
          <link rel="stylesheet" href="/HTWF/css/content-box.css">
-         <link rel="stylesheet" href="/HTWF/css/image-box.css">
-         <link rel="stylesheet" href="/HTWF/css/animations.css">
-         <link rel="stylesheet" href="/HTWF/css/components.css">
-         <link rel="icon" href="/images/favicon.ico">
+         <link rel="stylesheet" href="../HTWF/scripts/flexslider/flexslider.css">
+         <link rel="stylesheet" href="../HTWF/css/animations.css">
+         <link rel="stylesheet" href="../HTWF/css/components.css">
+         <link rel="stylesheet" href="../HTWF/scripts/magnific-popup.css">
+         <link rel="icon" href="../images/favicon.png">
          <link rel="stylesheet" href="/css/skin.css">
+         
          <!--Old web site link  -->
          <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
          <meta itemprop="name" content="Website and software development company in Bangladesh"/>
@@ -481,6 +483,8 @@
          <script async src="../HTWF/scripts/bootstrap/js/bootstrap.min.js"></script>
          <script src="../HTWF/scripts/imagesloaded.min.js"></script>
          <script async src="../HTWF/scripts/isotope.min.js"></script>
+         <script src="../HTWF/scripts/flexslider/jquery.flexslider-min.js"></script>
+         <script src="../HTWF/scripts/jquery.magnific-popup.min.js"></script>
          <script async src="../HTWF/scripts/jquery.tab-accordion.js"></script>
          <script src="../HTWF/scripts/parallax.min.js"></script>
          <script src="../HTWF/scripts/smooth.scroll.min.js"></script>
