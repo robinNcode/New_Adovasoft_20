@@ -25,7 +25,10 @@ Route::get('/layout', function(){
 });
 
 //................................Package controller calling .........................................
-
+Route::get('/packages','PackagesController@packages');
+Route::get('/website_packages','PackagesController@web_packages');
+Route::get('/starter_website_package','PackagesController@starter_web_package');
+Route::get('/dynamic_website_package','PackagesController@dynamic_web_package');
 
 //................................Service controller calling .........................................
 

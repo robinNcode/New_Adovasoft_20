@@ -89,7 +89,7 @@ img.customwidth{
 	background-color:#ffffff;
 	border-style:solid;
 	border-color:#dddddd;
-	border-width:0px 0px 1px 0px;
+	border-width:0px 20px 1px 0px;
 	padding-top:60px;
 }
 
@@ -114,7 +114,7 @@ img.customwidth{
 #columns,
 #end{
 	display:inline-block;
-	width:960px;
+	width:1000px;
 	margin:0px auto;
 }
 
@@ -406,7 +406,7 @@ img.customwidth{
 #columns td{
 	display:table-cell;
 	text-align:left;
-	padding:0px;
+	padding:0px 0px;
 	margin:0px;
 	border:none;
 	vertical-align:top;
