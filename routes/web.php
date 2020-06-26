@@ -20,7 +20,7 @@ Route::get('about_us','AboutController@about_us');
 //................................Home controller calling ............................................
 Route::get('/','HomeController@index');
 Route::get('/home','HomeController@index');
-Route::get('/service3','HomeController@service3');
+Route::get('/contact','HomeController@contact');
 Route::get('/layout', function(){
 	return view('layout');
 });
@@ -35,3 +35,7 @@ Route::get('/dynamic_website_package','PackagesController@dynamic_web_package');
 
 //................................Portfolio controller calling .......................................
 
+//................................Admin controller calling .......................................
+
+Route::get('/admin','Admin\AdminController@index');
+Route::get('/packages','Admin\AdminController@packages');
